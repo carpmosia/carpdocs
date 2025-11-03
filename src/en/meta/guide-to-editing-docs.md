@@ -1,6 +1,6 @@
 # Guide to Editing Docs
 
-Hello! As you may be able to notice, this docs site is completely open source and free to edit on GitHub. You can see the GitHub page for this site at [https://github.com/space-wizards/docs](https://github.com/space-wizards/docs).
+Hello! As you may be able to notice, this docs site is completely open source and free to edit on GitHub. You can see the GitHub page for this site at [https://github.com/carpmosia/carpdocs](https://github.com/carpmosia/carpdocs).
 
 There are a couple things to keep in mind when contributing. While we disallow web-edit PRs (those made exclusively on GitHub) on the main Space Station 14 & Robust Toolbox repos, that is not the case here. **Web-editing is encouraged** to make editing documentation as painless as possible.
 
@@ -16,7 +16,7 @@ If you just want to make a basic edit of a page, simply follow these steps--you 
 
 1. Create an account on GitHub, or log in if you already have one.
 
-2. Fork the [space-wizards/docs](https://github.com/space-wizards/docs) repo on GitHub.
+2. Fork the [carpmosia/carpdocs](https://github.com/carpmosia/carpdocs) repo on GitHub.
 
 ![](../assets/images/meta-create-fork.png)
 
