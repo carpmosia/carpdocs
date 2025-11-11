@@ -1,0 +1,74 @@
+
+## Service
+
+## Kitchen
+Required
+- Microwave(s)
+- Grinder
+- Meatspike
+- Sinks
+- Chef’s closet
+- Dinnerware machine
+- Freezers
+  - Drain
+  - Freezer Atmos Markers
+  - Tiny fans under doors
+
+Optional
+- Extra microwaves and grinders for multiple chefs
+- Chefdrobe
+- Spare universal enzymes
+- Cow crate/monkey cubes
+- Cold/Hot food carts
+
+## Botany
+Required
+- Megaseed Servitor
+- Seed Extractor
+- Hydroponics Tray
+- Botanist’s Locker [filled]
+- High Capacity Water Tank
+- Buckets
+
+Optional
+- Hydrobe
+- Nutrimax Machine
+- Grinder
+- Extra Botany Tools
+- Windows to kitchen or chem or both
+
+## Bar
+Required
+- Booze Dispenser
+- Soda Dispenser
+- Booze-o-mat
+- Booze Storage
+- Sink
+- Social area for crew
+
+Optional
+- Bardrobe
+- Pun Spawners
+- Extra Shakers
+- Box of Beanbag shells
+- Monkey Painting
+
+## Janitor’s Closet
+Required
+- Janitorial Supplies Crate
+- Soap
+- Box of Trashbags
+- Space Cleaner Bottle
+- Mop & Bucket
+- Drain
+- Janidrobe
+- Janitor Trolley
+- Janicart spawner + keys
+
+Optional
+- Janitor biohazard closet
+- Restock Box Spawner
+- Janitorial Trash Cart
+- Extra light boxes and light replacers
+- Custodial closets
+- Wet floor signs
