@@ -16,4 +16,13 @@ Mapping
 
 ----------------------
 
-- [WIP](en/mapping/wip.md)
+- [Areas](en/mapping/areas.md)
+  - [Cargo](en/mapping/areas/cargo.md)
+  - [Command](en/mapping/areas/command.md)
+  - [Engineering](en/mapping/areas/engineering.md)
+  - [Medical](en/mapping/areas/medical.md)
+    - [Chemistry](en/mapping/areas/medical/chemistry.md)
+    - [Cmo](en/mapping/areas/medical/cmo.md)
+    - [Medbay](en/mapping/areas/medical/medbay.md)
+    - [Morgue](en/mapping/areas/medical/morgue.md)
+    - [Virology](en/mapping/areas/medical/virology.md)
