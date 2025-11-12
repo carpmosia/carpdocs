@@ -38,3 +38,8 @@ Mapping
     - [Medbay](mapping/areas/medical/medbay.md)
     - [Morgue](mapping/areas/medical/morgue.md)
     - [Virology](mapping/areas/medical/virology.md)
+  - [Service](mapping/areas/service/README.md)
+    - [Bar](mapping/areas/service/bar.md)
+    - [Botany](mapping/areas/service/botany.md)
+    - [Janitor’s Closet](mapping/areas/service/janitor.md)
+    - [Kitchen](mapping/areas/service/kitchen.md)
