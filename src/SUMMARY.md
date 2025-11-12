@@ -16,11 +16,18 @@ Mapping
 
 ----------------------
 
-- [Areas](mapping/areas.md)
-  - [Cargo](mapping/areas/cargo.md)
-  - [Command](mapping/areas/command.md)
-  - [Engineering](mapping/areas/engineering.md)
-  - [Medical](mapping/areas/medical.md)
+- [Areas](mapping/areas/README.md)
+  - [Cargo](mapping/areas/cargo/README.md)
+    - [Cargo Bay](mapping/areas/cargo/cargo_bay.md)
+    - [Cargo Reception](mapping/areas/cargo/cargo_reception.md)
+    - [Quartermaster](mapping/areas/cargo/quartermaster.md)
+    - [Salvage](mapping/areas/cargo/salvage.md)
+  - [Command](mapping/areas/command/README.md)
+  - [Engineering](mapping/areas/engineering/README.md)
+    - [AME](mapping/areas/engineering/ame.md)
+    - [Chief Engineer](mapping/areas/engineering/ce.md)
+    - [SMES](mapping/areas/engineering/smes.md)
+  - [Medical](mapping/areas/medical/README.md)
     - [Chemistry](mapping/areas/medical/chemistry.md)
     - [Cmo](mapping/areas/medical/cmo.md)
     - [Medbay](mapping/areas/medical/medbay.md)
