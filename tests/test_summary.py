@@ -8,13 +8,14 @@ REPO_ROOT = Path.cwd()
 
 # Folders to check
 DOCS_DIRS = [
-    REPO_ROOT / r"src/en",
+    REPO_ROOT / r"src/mapping",
+    REPO_ROOT / r"src/meta",
 ]
 
 # Folders to ignore
 EXEMPT_DIRS = [
-    REPO_ROOT / r"src/en/assets",
-    REPO_ROOT / r"src/en/templates",
+    REPO_ROOT / r"src/assets",
+    REPO_ROOT / r"src/templates",
 ]
 
 # The file to check the links for
@@ -26,7 +27,7 @@ def get_summary_links():
     links = set()
     # regex explanation:
     # valid links have the form
-    # [How do I code?](en/general-development/setup/howdoicode.md)
+    # [How do I code?](general-development/setup/howdoicode.md)
     # \[ and \] match literal brackets
     # [^]] means "not a closing bracket"
     # [^]]+ matches the text inside the brackets, with at least one character

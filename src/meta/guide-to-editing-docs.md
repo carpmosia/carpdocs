@@ -18,15 +18,15 @@ If you just want to make a basic edit of a page, simply follow these steps--you 
 
 2. Fork the [carpmosia/carpdocs](https://github.com/carpmosia/carpdocs) repo on GitHub.
 
-![](../assets/images/meta-create-fork.png)
+![](../assets/images/meta/create-fork.png)
 
 3. Click the 'View & Edit Page on GitHub` icon in the very top right of any page on this site.
 
-![](../assets/images/meta-edit-page-button.png)
+![](../assets/images/meta/edit-page-button.png)
 
 4. Click the 'Edit this file' button at the top right of the file view.
 
-![](../assets/images/meta-edit-file.png)
+![](../assets/images/meta/edit-file.png)
 
 5. Make your changes, then commit & create a pull request! We'll handle the rest.
 
@@ -51,7 +51,7 @@ If you've made a PR, the easiest way to test your changes, since they're just ma
 
 If you want a slightly more authentic experience, every PR will have the `Test mdBook Build & Upload Artifact` action run, and you can download the built site like so:
 
-![](../assets/images/meta-artifact-download.png)
+![](../assets/images/meta/artifact-download.png)
 
 Then, just unzip it and open `index.html`. Our custom CSS and stuff won't work super well but it'll look good enough.
 
