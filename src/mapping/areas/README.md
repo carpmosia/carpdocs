@@ -169,3 +169,6 @@ Optional
 - Use directional signs to departments at intersections or heavy foot traffic areas
 - Break up halls with glass airlocks and plenty of fire locks
 - You can also use common rooms and parks to break a hallway
+
+
+{{#template ../../templates/mapping/test.md}}
