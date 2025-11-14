@@ -1,1 +1,1 @@
-<img src="[[#path]].png" style="width: max(30vw, 30vh); object-fit: contain; aspect-ratio: 1; image-rendering: pixelated;">
+<img src="[[#path]].webp" style="width: max(30vw, 30vh); object-fit: contain; aspect-ratio: 1; image-rendering: pixelated;">
