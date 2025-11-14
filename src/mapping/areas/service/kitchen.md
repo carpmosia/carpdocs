@@ -1,0 +1,23 @@
+# Kitchen
+
+## Required
+- Microwave(s)
+- Grinder
+- Meatspike
+- Sinks
+- Chef’s closet
+- Dinnerware machine
+- Freezers
+  - Drain
+  - Freezer Atmos Markers
+  - Tiny fans under doors
+
+## Optional
+- Extra microwaves and grinders for multiple chefs
+- Chefdrobe
+- Spare universal enzymes
+- Cow crate/monkey cubes
+- Cold/Hot food carts
+
+# Examples
+{{#template ../../../templates/mapping/table.md path=../../../assets/images/mapping/areas/service/kitchen}}
