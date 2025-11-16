@@ -2,12 +2,12 @@
 | :-: | :-: | :-: |
 | **Amber** | **Bagel** | **Box** |
 | {{#template timg.md path=[[#path]]/amber}} | {{#template timg.md path=[[#path]]/bagel}} | {{#template timg.md path=[[#path]]/box}} |
-| **Elkridge** | **Fland** | **Marathon** |
-| {{#template timg.md path=[[#path]]/elkridge}} | {{#template timg.md path=[[#path]]/fland}} | {{#template timg.md path=[[#path]]/marathon}} |
-| **Oasis 2** | **Saltern 2** | **Packed** |
-| {{#template timg.md path=[[#path]]/oasis-2}} | {{#template timg.md path=[[#path]]/saltern-2}} | {{#template timg.md path=[[#path]]/packed}} |
-| **Plasma** | **Exo** | |
-| {{#template timg.md path=[[#path]]/plasma}} | {{#template timg.md path=[[#path]]/exo}} | |
+| **Elkridge** | **Feint** | **Fland** |
+| {{#template timg.md path=[[#path]]/elkridge}} | {{#template timg.md path=[[#path]]/feint}} | {{#template timg.md path=[[#path]]/fland}} |
+| **Marathon** | **Oasis 2** | **Saltern 2** |
+| {{#template timg.md path=[[#path]]/marathon}} | {{#template timg.md path=[[#path]]/oasis-2}} | {{#template timg.md path=[[#path]]/saltern-2}} |
+| **Packed** | **Plasma** | **Exo** |
+| {{#template timg.md path=[[#path]]/packed}} | {{#template timg.md path=[[#path]]/plasma}} | {{#template timg.md path=[[#path]]/exo}} |
 
 These maps are derotated and likely very outdated, not recommended to use for reference.
 
