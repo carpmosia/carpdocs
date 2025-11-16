@@ -16,4 +16,12 @@ Mapping
 
 ----------------------
 
-- [WIP](mapping/wip.md)
+- [Guidelines](mapping/guidelines/README.md)
+  - [Cargo](mapping/guidelines/cargo.md)
+  - [Command](mapping/guidelines/command.md)
+  - [Engineering](mapping/guidelines/engineering.md)
+  - [Medical](mapping/guidelines/medical.md)
+  - [Miscellaneous](mapping/guidelines/miscellaneous.md)
+  - [Science](mapping/guidelines/science.md)
+  - [Security](mapping/guidelines/security.md)
+  - [Service](mapping/guidelines/service.md)
