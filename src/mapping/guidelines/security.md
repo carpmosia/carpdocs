@@ -109,7 +109,7 @@
 - Plants, Water cooler, Decoration
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/service/court}}
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/security/court}}
 
 ## Law Office
 #### Optional
@@ -119,4 +119,4 @@
 - Desks with seating for lawyer and client
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/service/lawyer}}
+{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/security/lawyer}}
