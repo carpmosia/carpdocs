@@ -1,6 +1,6 @@
 {% macro img(path, map) %}
 {% if map %}
-<img src="/assets/images/mapping/{{path}}/{{map}}.webp" style="width: 100%; object-fit: contain; aspect-ratio: 1; image-rendering: pixelated;">
+<a target="_blank" href="/assets/images/mapping/{{path}}/{{map}}.webp"><img src="/assets/images/mapping/{{path}}/{{map}}.webp" style="width: 100%; object-fit: contain; aspect-ratio: 1; image-rendering: pixelated;"></a>
 {% endif %}
 {% endmacro img %}
 
@@ -43,9 +43,9 @@ These maps are derotated and likely very outdated, not recommended to use for re
 )}}
 These maps are work-in-progress, don't judge them yet :3c
 {{ self::table(
-  title="Work-In-Progress",
-  maps=["senpeak"],
-  names=["Serenity Peak"],
+  title="Work In Progress",
+  maps=["elkridge-2", "senpeak", "serpentcrest", "thunderchild", "tram", "waterjug"],
+  names=["Elkridge 2", "Serenity Peak", "Serpentcrest", "Thunderchild", "Tram", "Waterjug"],
   path=path
 )}}
 {% endmacro examples %}
