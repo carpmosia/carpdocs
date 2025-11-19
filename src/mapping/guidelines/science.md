@@ -1,3 +1,4 @@
+{% import "templates/mapping.md" as map %}
 # Science
 ## Research and Development
 #### Required
@@ -46,7 +47,7 @@
 - Lamarr poster
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/science/rd}}
+{{ map::examples(path="science/research_director") }}
 
 ## Robotics
 #### Required:
@@ -57,4 +58,4 @@
 - Robotech Deluxe
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/science/robot}}
+{{ map::examples(path="science/robotics") }}

@@ -18,13 +18,13 @@ Best to look at [a general markdown guide](https://www.markdownguide.org/getting
 
 You can also pass args into a template invocation which are interpolated into the page by `mdbook-template`. See [their docs](https://github.com/sgoudham/mdbook-template#format) for more info
 
-`\{\{#template {link to template file}\}\}`
+`\{\% include {link to template file}\%\}`
 
-{{#template ../templates/outdated.md}}
+{% include "templates/outdated.md" %}
 
-{{#template ../templates/wip.md}}
+{% include "templates/wip.md" %}
 
-{{#template ../templates/stub.md}}
+{% include "templates/stub.md" %}
 
 ## admonishments
 

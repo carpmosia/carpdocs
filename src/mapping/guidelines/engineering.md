@@ -1,3 +1,4 @@
+{% import "templates/mapping.md" as map %}
 # Engineering
 ## Main Engineering
 
@@ -35,7 +36,7 @@
 - Cell Rechargers
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/engineering/ce}}
+{{ map::examples(path="engineering/chief_engineer") }}
 
 ## AME
 #### Required
@@ -47,7 +48,7 @@
 - HV to SMES cable terminal input
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/engineering/ame}}
+{{ map::examples(path="engineering/ame") }}
 
 ## Solars
 #### Required

@@ -1,3 +1,4 @@
+{% import "templates/mapping.md" as map %}
 # Command
 ## Bridge
 #### Required
@@ -16,7 +17,7 @@
 - Camera Monitor
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/command/bridge}}
+{{ map::examples(path="command/bridge") }}
 
 ## Vault
 #### Required
@@ -29,7 +30,7 @@
 - Premium Cigars
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/command/vault}}
+{{ map::examples(path="command/vault") }}
 
 ## Captain’s Quarters
 #### Required
@@ -46,7 +47,7 @@
 - Fireplace / TV
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/command/captain}}
+{{ map::examples(path="command/captain") }}
 
 ## Head of Personnel’s Office
 #### Required
@@ -65,4 +66,4 @@
 - Fireplace / TV
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/command/hop}}
+{{ map::examples(path="command/head_of_personnel") }}

@@ -1,3 +1,4 @@
+{% import "templates/mapping.md" as map %}
 # Misc
 ## EVA Storage
 #### Required
@@ -9,7 +10,7 @@
 - Mag Boots
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/misc/eva}}
+{{ map::examples(path="miscellaneous/eva") }}
 
 ## Arrivals
 #### Required
@@ -36,7 +37,7 @@
 - Confession Booth
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/misc/chapel}}
+{{ map::examples(path="miscellaneous/chapel") }}
 
 ## Library
 #### Required
@@ -56,7 +57,7 @@
 - Lantern
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/misc/library}}
+{{ map::examples(path="miscellaneous/library") }}
 
 ## Maints
 #### Required
@@ -84,7 +85,7 @@
 - Material Reclaimer
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/misc/dispo}}
+{{ map::examples(path="miscellaneous/disposals") }}
 
 ## Theater Room
 #### Required
@@ -107,7 +108,7 @@
 - Vending machines
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/misc/tools}}
+{{ map::examples(path="miscellaneous/tools") }}
 
 ## Halls
 #### Optional

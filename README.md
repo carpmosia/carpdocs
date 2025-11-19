@@ -17,10 +17,11 @@ The following `mdbook` features & plugins are available and in use:
 - Sidebar ToC (integrated directly into `index.hbs` etc)
 - `mdbook-mermaid`
 - `mdbook-linkcheck`
-- `mdbook-template`
+- `mdbook-tera`
 - `mdbook-admonish`
 - `mdbook-emojicodes`
 - `mdbook-embedify`
+- `mdbook-force-relative-links`
 
 **For information such as how to edit, build & test these docs, see [Guide to Editing Docs](https://docs.carp.gg/meta/guide-to-editing-docs.html). on the site itself**
 

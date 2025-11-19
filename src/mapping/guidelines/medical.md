@@ -1,3 +1,4 @@
+{% import "templates/mapping.md" as map %}
 # Medical
 ## Medbay
 #### Required
@@ -35,7 +36,7 @@
 - Drain
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/medical/chemistry}}
+{{ map::examples(path="medical/chemistry") }}
 
 ## Virology
 #### Required
@@ -52,7 +53,7 @@
 - virodrobe
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/medical/virology}}
+{{ map::examples(path="medical/virology") }}
 
 ## Chief Medical Officer’s Room
 #### Required
@@ -67,7 +68,7 @@
 - cat spawner
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/medical/cmo}}
+{{ map::examples(path="medical/chief_medical_officer") }}
 
 ## Morgue
 #### Required
@@ -81,4 +82,4 @@
 - Surgery Tools
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/medical/morgue}}
+{{ map::examples(path="medical/morgue") }}

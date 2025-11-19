@@ -1,3 +1,4 @@
+{% import "templates/mapping.md" as map %}
 # Service
 ## Kitchen
 #### Required
@@ -20,7 +21,7 @@
 - Cold/Hot food carts
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/service/kitchen}}
+{{ map::examples(path="service/kitchen") }}
 
 ## Botany
 #### Required
@@ -39,7 +40,7 @@
 - Windows to kitchen or chem or both
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/service/botany}}
+{{ map::examples(path="service/botany") }}
 
 ## Bar
 #### Required
@@ -58,7 +59,7 @@
 - Monkey Painting
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/service/bar}}
+{{ map::examples(path="service/bar") }}
 
 ## Janitor’s Closet
 #### Required
@@ -81,4 +82,4 @@
 - Wet floor signs
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/service/janitor}}
+{{ map::examples(path="service/janitor") }}

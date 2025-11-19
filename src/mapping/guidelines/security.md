@@ -1,3 +1,4 @@
+{% import "templates/mapping.md" as map %}
 # Security
 ## Brig (Main Area)
 #### Required
@@ -35,7 +36,7 @@
 - McGriff Spawner
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/security/warden}}
+{{ map::examples(path="security/warden") }}
 
 ## Head of Security’s Room
 #### Required
@@ -49,7 +50,7 @@
 - WT550
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/security/hos}}
+{{ map::examples(path="security/head_of_security") }}
 
 ## Armory
 #### Required
@@ -68,7 +69,7 @@
 - Another SecTech Vending Machine
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/security/armory}}
+{{ map::examples(path="security/armory") }}
 
 ## Perma Brig
 #### Required
@@ -93,7 +94,7 @@
 - Water Cooler
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/security/detective}}
+{{ map::examples(path="security/detective") }}
 
 ## Courtroom
 #### Required
@@ -109,7 +110,7 @@
 - Plants, Water cooler, Decoration
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/security/court}}
+{{ map::examples(path="security/courtroom") }}
 
 ## Law Office
 #### Optional
@@ -119,4 +120,4 @@
 - Desks with seating for lawyer and client
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/security/lawyer}}
+{{ map::examples(path="security/lawyer") }}

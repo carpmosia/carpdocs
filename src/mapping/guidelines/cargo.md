@@ -1,3 +1,4 @@
+{% import "templates/mapping.md" as map %}
 # Cargo
 ## Cargo Reception
 #### Required
@@ -35,7 +36,7 @@
 - Morticia Spawner
 
 ### Examples
-{{#template ../../templates/mapping/table.md path=../../assets/images/mapping/cargo/qm}}
+{{ map::examples(path="cargo/quartermaster") }}
 
 ## Salvage
 #### Required

@@ -14,7 +14,11 @@ command = "mdbook-admonish"
 
 [preprocessor.emojicodes]
 
-[preprocessor.template]
+[preprocessor.force-relative-links]
+after = ["links"] # Required to resolve links that comes from `{{#include}}` directives
+
+[preprocessor.tera]
+command = "mdbook-tera --template-include templates/**"
 before = ["mermaid","admonish","emojicodes"] # templates can include these so we run this first
 
 [preprocessor.embedify]
