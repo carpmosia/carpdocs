@@ -8,3 +8,12 @@
 - A stage for them to act on
 - Bananas and pies for clown, crayons for mime, instruments for musician etc
 - Mime & Clown bedsheets
+
+## Clown Examples
+{{ map::examples(path="service/theater_clown") }}
+
+## Mime Examples
+{{ map::examples(path="service/theater_mime") }}
+
+## Musician Examples
+{{ map::examples(path="service/theater_musician") }}

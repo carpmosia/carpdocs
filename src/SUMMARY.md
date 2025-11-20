@@ -54,7 +54,6 @@ Mapping
     - [Halls](mapping/guidelines/miscellaneous/halls.md)
     - [Laundry](mapping/guidelines/miscellaneous/laundry.md)
     - [Maints](mapping/guidelines/miscellaneous/maints.md)
-    - [Theater](mapping/guidelines/miscellaneous/theater.md)
     - [Tools](mapping/guidelines/miscellaneous/tools.md)
   - [Science](mapping/guidelines/science/README.md)
     - [Research & Development](mapping/guidelines/science/research_and_development.md)
@@ -77,3 +76,4 @@ Mapping
     - [Janitor](mapping/guidelines/service/janitor.md)
     - [Kitchen](mapping/guidelines/service/kitchen.md)
     - [Library](mapping/guidelines/service/library.md)
+    - [Theater](mapping/guidelines/service/theater.md)
