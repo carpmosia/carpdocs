@@ -25,6 +25,7 @@ Mapping
   - [Command](mapping/guidelines/command/README.md)
     - [Bridge](mapping/guidelines/command/bridge.md)
     - [Captain](mapping/guidelines/command/captain.md)
+    - [Conference](mapping/guidelines/command/conference.md)
     - [Head of Personnel](mapping/guidelines/command/head_of_personnel.md)
     - [Vault](mapping/guidelines/command/vault.md)
   - [Engineering](mapping/guidelines/engineering/README.md)
