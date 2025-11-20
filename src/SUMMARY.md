@@ -38,6 +38,7 @@ Mapping
     - [Solars](mapping/guidelines/engineering/solars.md)
     - [Telecomms](mapping/guidelines/engineering/telecomms.md)
   - [Maintenance](mapping/guidelines/maintenance/README.md)
+    - [Altar](mapping/guidelines/maintenance/altar.md)
     - [Bar](mapping/guidelines/maintenance/bar.md)
     - [Botany](mapping/guidelines/maintenance/botany.md)
     - [Disposals](mapping/guidelines/maintenance/disposals.md)
