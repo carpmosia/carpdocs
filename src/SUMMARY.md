@@ -49,6 +49,7 @@ Mapping
     - [Surgery](mapping/guidelines/medical/surgery.md)
     - [Virology](mapping/guidelines/medical/virology.md)
   - [Miscellaneous](mapping/guidelines/miscellaneous/README.md)
+    - [Arcade](mapping/guidelines/miscellaneous/arcade.md)
     - [Arrivals](mapping/guidelines/miscellaneous/arrivals.md)
     - [Eva](mapping/guidelines/miscellaneous/eva.md)
     - [Halls](mapping/guidelines/miscellaneous/halls.md)
