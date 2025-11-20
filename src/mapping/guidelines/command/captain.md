@@ -15,3 +15,12 @@
 
 ## Examples
 {{ map::examples(path="command/captain") }}
+
+## Office examples
+{{ map::examples(path="command/captain_office") }}
+
+## Bedroom examples
+{{ map::examples(path="command/captain_bedroom") }}
+
+## Bathroom examples
+{{ map::examples(path="command/captain_bathroom") }}
