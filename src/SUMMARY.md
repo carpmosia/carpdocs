@@ -51,6 +51,7 @@ Mapping
   - [Miscellaneous](mapping/guidelines/miscellaneous/README.md)
     - [Arcade](mapping/guidelines/miscellaneous/arcade.md)
     - [Arrivals](mapping/guidelines/miscellaneous/arrivals.md)
+    - [Cryosleep](mapping/guidelines/miscellaneous/cryosleep.md)
     - [Eva](mapping/guidelines/miscellaneous/eva.md)
     - [Halls](mapping/guidelines/miscellaneous/halls.md)
     - [Laundry](mapping/guidelines/miscellaneous/laundry.md)
