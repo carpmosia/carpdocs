@@ -7,4 +7,4 @@
 - Material Reclaimer
 
 ## Examples
-{{ map::examples(path="miscellaneous/disposals") }}
+{{ map::examples(path="maintenance/disposals") }}
