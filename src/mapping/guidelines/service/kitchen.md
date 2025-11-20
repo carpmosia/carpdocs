@@ -21,3 +21,6 @@
 
 ## Examples
 {{ map::examples(path="service/kitchen") }}
+
+## Freezer examples
+{{ map::examples(path="service/kitchen_freezer") }}
