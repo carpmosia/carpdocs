@@ -50,3 +50,25 @@ These maps are work-in-progress, don't judge them yet :3c
 )}}
 {% endmacro examples %}
 
+{% macro shuttle_examples(path) %}
+{{ self::table(
+  title="In Rotation",
+  maps=["generic", "elkridge", "exo", "fland", "plasma"],
+  names=["Generic", "Elkridge", "Exo", "Fland", "Plasma"],
+  path=path
+)}}
+These shuttles belong to derotated and likely very outdated maps, not recommended to use for reference.
+{{ self::table(
+  title="Derotated",
+  maps=["core", "relic"],
+  names=["Core", "Relic"],
+  path=path
+)}}
+These shuttles belong to work-in-progress maps, don't judge them yet :3c
+{{ self::table(
+  title="Work In Progress",
+  maps=["senpeak"],
+  names=["Serenity Peak"],
+  path=path
+)}}
+{% endmacro shuttle_examples %}
