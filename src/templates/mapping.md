@@ -52,7 +52,7 @@ These maps are work-in-progress, don't judge them yet :3c
 
 {% macro shuttle_examples(path) %}
 {{ self::table(
-  title="Shuttles belonging to Maps currently in Rotation",
+  title="In Rotation",
   maps=["generic", "elkridge", "exo", "fland", "plasma"],
   names=["Generic", "Elkridge", "Exo", "Fland", "Plasma"],
   path=path
