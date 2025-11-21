@@ -1,7 +1,7 @@
 {% import "templates/mapping.md" as map %}
 # Custom Cargo Shuttle
 #### Required
-- Cargo Shuttle Computer
+- Cargo Shuttle Console
 - Pilot Seat
 - Pair of thrusters in each cardinal direction
 - Gyroscope
