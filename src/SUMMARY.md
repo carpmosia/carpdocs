@@ -20,6 +20,7 @@ Mapping
   - [Cargo](mapping/guidelines/cargo/README.md)
     - [Cargo Bay](mapping/guidelines/cargo/cargo_bay.md)
     - [Cargo Reception](mapping/guidelines/cargo/cargo_reception.md)
+    - [Cargo Shuttle](mapping/guidelines/cargo/cargo_shuttle.md)
     - [Quartermaster](mapping/guidelines/cargo/quartermaster.md)
     - [Salvage](mapping/guidelines/cargo/salvage.md)
   - [Command](mapping/guidelines/command/README.md)

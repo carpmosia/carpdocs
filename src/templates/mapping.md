@@ -50,3 +50,27 @@ These maps are work-in-progress, don't judge them yet :3c
 )}}
 {% endmacro examples %}
 
+<!-- PowerShell command for getting renders of all in rotation and outdated cargo shuttles (ran in the carpmosia repo folder) -->
+<!-- dotnet run --project .\Content.MapRenderer\ -m --files ".\Resources\Maps\Shuttles\cargo_core.yml" ".\Resources\Maps\Shuttles\cargo_elkridge.yml" ".\Resources\Maps\Shuttles\cargo_exo.yml" ".\Resources\Maps\Shuttles\cargo_fland.yml" ".\Resources\Maps\Shuttles\cargo_plasma.yml" ".\Resources\Maps\Shuttles\cargo_relic.yml" ".\Resources\Maps\Shuttles\cargo.yml" -->
+{% macro shuttle_examples(path) %}
+{{ self::table(
+  title="In Rotation",
+  maps=["generic", "elkridge", "exo", "fland", "plasma"],
+  names=["Generic", "Elkridge", "Exo", "Fland", "Plasma"],
+  path=path
+)}}
+These shuttles belong to derotated and likely very outdated maps, not recommended to use for reference.
+{{ self::table(
+  title="Derotated",
+  maps=["core", "relic"],
+  names=["Core", "Relic"],
+  path=path
+)}}
+These shuttles belong to work-in-progress maps, don't judge them yet :3c
+{{ self::table(
+  title="Work In Progress",
+  maps=["senpeak"],
+  names=["Serenity Peak"],
+  path=path
+)}}
+{% endmacro shuttle_examples %}
