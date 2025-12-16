@@ -10,4 +10,4 @@
 - `DefibrillatorCabinetFilled` - defibrillator cabinet
 
 ## Examples
-{{ map::examples(path="medical/virology") }}
+{{ map::examples(path="medical/surgery") }}
