@@ -56,6 +56,7 @@ Mapping
     - [Arrivals](mapping/guidelines/miscellaneous/arrivals.md)
     - [Cryosleep](mapping/guidelines/miscellaneous/cryosleep.md)
     - [Eva](mapping/guidelines/miscellaneous/eva.md)
+    - [Evac Shuttle](mapping/guidelines/miscellaneous/evac_shuttle.md)
     - [Halls](mapping/guidelines/miscellaneous/halls.md)
     - [Laundry](mapping/guidelines/miscellaneous/laundry.md)
     - [Maints](mapping/guidelines/miscellaneous/maints.md)
