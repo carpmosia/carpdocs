@@ -23,6 +23,5 @@
 - Extra Thrusters
 - Decoration
 
-
 ## Examples
 {{ map::shuttle_examples(path="cargo/cargo_shuttle") }}
