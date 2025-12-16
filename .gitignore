@@ -7,8 +7,5 @@ book
 .*~
 *.swp
 
-# VSCode and VSCodium project config folder
-.vscode/
-
 # Obsidian vault config folder
 .obsidian/

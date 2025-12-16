@@ -1,5 +1,5 @@
 {% import "templates/mapping.md" as map %}
-# Custom Cargo Shuttle
+# Cargo Shuttle
 #### Required
 - Cargo Shuttle Console
 - Pilot Seat
@@ -23,6 +23,5 @@
 - Extra Thrusters
 - Decoration
 
-
 ## Examples
-{{ map::shuttle_examples(path="cargo/cargo_shuttle") }}
+{{ map::cargo_shuttle_examples(path="cargo/cargo_shuttle") }}
