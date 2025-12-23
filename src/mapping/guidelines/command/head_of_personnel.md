@@ -8,7 +8,7 @@
 - PTech Vending Machine
 
 #### Optional
-- Bed + HoP bedshet#et
+- Bed + HoP bedsheet
 - Hand Labeller
 - Crew Monitor
 - Personnel Crate
