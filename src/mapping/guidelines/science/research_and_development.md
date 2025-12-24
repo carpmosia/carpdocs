@@ -5,15 +5,8 @@
 - `Autolathe` - autolathe
 - `Protolathe` - protolathe
 - `Circuit Imprinter` - circuit imprinter
-- Isolated testing chamber (for xeno archeology)
-- Artifact Analyzer and Analysis Console (linked)
-- Artifact Spawner
-- Artifact Container
 - Limited starting materials (Steel, Glass, Plastic only)
 - `LockerScienceFilled` - scientist's locker
-- `MachineAnomalyGenerator` - anomaly generator
-- 2-3 Anomaly Vessels
-- 2-3 APES
 
 #### Optional
 - Grinder
