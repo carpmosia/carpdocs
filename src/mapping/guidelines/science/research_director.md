@@ -1,16 +1,16 @@
 {% import "templates/mapping.md" as map %}
 # Research Director’s Room
 #### Required
-- RD locker [filled]
-- R&D Computer
+- `LockerResearchDirectorFilled` - research director's locker
+- `ComputerResearchAndDevelopment` - R&D computer
 
 #### Optional
 - bed/RD bedsheet
-- Bandito Spawner
-- Power Drill
+- `SpawnMobBandito` - Bandito Spawner
+- `PowerDrill` - power drill
 - Spare Eva Suit
-- RD’s potted plant
-- Lamarr poster
+- `PottedPlantRD` - RD's potted plant
+- `PosterContrabandLamarr` - Lamarr
 
 ## Examples
 {{ map::examples(path="science/research_director") }}

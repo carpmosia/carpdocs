@@ -1,17 +1,17 @@
 {% import "templates/mapping.md" as map %}
 # Research and Development
 #### Required
-- R&D computer
-- Autolathe
-- Protolathe
-- Circuit Imprinter
+- `ComputerResearchAndDevelopment` - R&D computer
+- `Autolathe` - autolathe
+- `Protolathe` - protolathe
+- `Circuit Imprinter` - circuit imprinter
 - Isolated testing chamber (for xeno archeology)
 - Artifact Analyzer and Analysis Console (linked)
 - Artifact Spawner
 - Artifact Container
 - Limited starting materials (Steel, Glass, Plastic only)
-- Scientist Locker
-- Anomaly Generator
+- `LockerScienceFilled` - scientist's locker
+- `MachineAnomalyGenerator` - anomaly generator
 - 2-3 Anomaly Vessels
 - 2-3 APES
 
