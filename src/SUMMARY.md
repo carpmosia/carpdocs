@@ -62,6 +62,8 @@ Mapping
     - [Maints](mapping/guidelines/miscellaneous/maints.md)
     - [Tools](mapping/guidelines/miscellaneous/tools.md)
   - [Science](mapping/guidelines/science/README.md)
+    - [Anomaly Generator](mapping/guidelines/science/anomaly_generator.md)
+    - [Artifact Labs](mapping/guidelines/science/artifact_labs.md)
     - [Research & Development](mapping/guidelines/science/research_and_development.md)
     - [Research Director](mapping/guidelines/science/research_director.md)
     - [Robotics](mapping/guidelines/science/robotics.md)
